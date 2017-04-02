@@ -1,2 +1,2 @@
-# bc-sarahmarket-docs
-Documentation for the BigCommerce Theme SarahMarket by tvlgiao
+# bc-electronics-docs
+Documentation for the BigCommerce Theme Electronics by tvlgiao

@@ -65,3 +65,8 @@ To activate a theme style, open Theme Editor, find __Styles__ section, click on 
 ![Home 1](img/home1.jpg)
 
 
+### Full: Show all sections
+
+![Home 2](img/home2.jpg)
+
+
